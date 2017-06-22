@@ -1,0 +1,9 @@
+F:\Web前端\shengcheng1\CodematicDemo\Common\bin\Debug\rr2.Common.dll
+F:\Web前端\shengcheng1\CodematicDemo\Common\bin\Debug\rr2.Common.pdb
+F:\Web前端\shengcheng1\CodematicDemo\Common\bin\Debug\COM.Excel.dll
+F:\Web前端\shengcheng1\CodematicDemo\Common\bin\Debug\Excel.dll
+F:\Web前端\shengcheng1\CodematicDemo\Common\bin\Debug\OpenSmtp.dll
+F:\Web前端\shengcheng1\CodematicDemo\Common\bin\Debug\OWC10Chart.dll
+F:\Web前端\shengcheng1\CodematicDemo\Common\obj\Debug\rr2.Common.dll
+F:\Web前端\shengcheng1\CodematicDemo\Common\obj\Debug\rr2.Common.pdb
+F:\Web前端\shengcheng1\CodematicDemo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
